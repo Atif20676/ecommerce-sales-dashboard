@@ -18,6 +18,11 @@ This project focuses on analyzing e-commerce sales data using Microsoft Power BI
 - Data visualization for business insights
 - Product and sales performance analysis
 
+🖼️ Dashboard Preview
+![E-commerce Sales Dashboard](EXACT-IMAGE-FILENAME.png)
+
+  
+
 ## 📁 Project File
 The Power BI dashboard file is available in this repository:
 
